@@ -1,6 +1,6 @@
 
 # T3 Test
-T3 Test is a repository to test a project bootstrapped with a simple command create-t3-app, aiming to provide a robust foundation for building modern web applications. It integrates various technologies to streamline development and enhance user experience.
+T3 Test is a repository to test a project bootstrapped with a simple command ```create-t3-app```, aiming to provide a robust foundation for building modern web applications. It integrates various technologies to streamline development and enhance user experience.
 
 ## Technologies Used
 - Next.js: Next.js is a React framework providing capabilities such as server-side rendering, static site generation, and routing, making it ideal for building fast and scalable web applications.
